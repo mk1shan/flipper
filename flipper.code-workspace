@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "flipper",
+			"path": "."
+		},
+		{
+			"name": "setup",
+			"path": "../../../Downloads/javascript-basic-projects-master/javascript-basic-projects-master/01-color-flipper/setup"
+		}
+	],
+	"settings": {}
+}
